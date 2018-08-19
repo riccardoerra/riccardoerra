@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Riccardo Erra",
+  "url": "https://riccardoerra.com/",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Riccardo Erra is a front-end developer based in London and this is his blog.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://riccardoerra.com/feed/feed.xml",
+    "id": "https://riccardoerra.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Riccardo Erra",
+    "email": "ciao@riccardoerra.com"
   }
 }
